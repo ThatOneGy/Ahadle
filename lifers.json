@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Grian",
+    "series": ["Third Life", "Last Life", "Double Life", "Limited Life", "Secret Life", "Wild Life"],
+    "subs": 8500000,
+    "notes": ["Organizer", "Has won once"]
+  },
+  {
+    "name": "Martyn",
+    "series": ["Third Life", "Last Life", "Double Life", "Limited Life", "Secret Life", "Wild Life"],
+    "subs": 900000,
+    "notes": ["Was in the Mean Gills", "Has won once"]
+  },
+  {
+    "name": "Scar",
+    "series": ["Third Life", "Last Life", "Double Life", "Limited Life", "Secret Life", "Wild Life"],
+    "subs": 2600000,
+    "notes": ["Famous for his abs", "Has won once"]
+  }
+]
